@@ -1,40 +1,47 @@
-# Ionosphere Energy Concept – 電離層を用いた地球規模エネルギー構想
+# 🌐 Ionosphere Energy Concept Proposal
 
-This repository contains a conceptual proposal to use Earth's ionosphere as a controllable electromagnetic structure for global energy generation.  
-地球の電離層を人工的に誘導・制御し、地球規模の電磁コイルとして活用することで、再生可能かつ持続的なエネルギー基盤を構築するという構想です。
+This repository proposes a visionary concept to harness the ionosphere as a controllable, planet-scale electromagnetic infrastructure to address global energy demands.
 
-## 🔹 Included Files / 含まれるファイル
+このリポジトリは、電離層を利用した地球規模の電磁エネルギー構想を提案するものです。
 
-- [English Proposal](./proposal_en.md)
-- [日本語提案](./proposal_ja.md)
-- `LICENSE` : Creative Commons Attribution 4.0 International (CC BY 4.0)
+---
 
-## 🔹 Purpose / 目的
+## 📄 Proposal Files / 提案文書
 
-- To publish a future-oriented concept for open discussion.
-- For academic, scientific, or speculative inspiration.
+- [proposal_en.md](./proposal_en.md) – English version
+- [proposal_ja.md](./proposal_ja.md) – 日本語版
 
-この構想は、現実の実装を前提としたものではありませんが、物理的・技術的に検討可能な起点となることを目指しています。
+---
 
-## 👥 想定読者
+## 💬 Discussion / 議論の場
 
-- 宇宙開発・電磁工学・プラズマ物理に関心のある研究者・技術者
-- 持続可能なエネルギー構想に興味のある政策立案者や未来志向の学生
-- SF的発想を技術で実現したいと考える未来開拓型の開発者
+- We welcome feedback, criticism, and alternative ideas in the [Discussions](https://github.com/tadi-karuma/ionosphere-energy-concept/discussions).
+- ご意見・ご感想・技術的な指摘は [Discussions](https://github.com/tadi-karuma/ionosphere-energy-concept/discussions) にお寄せください。
 
-## 📚 想定用途
+---
 
-- 架空研究の起点や議論素材として
-- 数値シミュレーションや設計研究のタネとして
-- 公開レビューを前提とした論文的叩き台として
+## 👥 Intended Audience / 想定読者
 
-## 🔹 License
+- Researchers and engineers interested in space development, electromagnetism, or plasma physics  
+  宇宙開発・電磁工学・プラズマ物理に関心のある研究者・技術者
+- Policymakers and forward-looking students concerned with sustainable energy systems  
+  持続可能なエネルギー構想に興味のある政策立案者や未来志向の学生
+- Developers and futurists who wish to realize speculative or visionary ideas through technology  
+  SF的発想を技術で実現したいと考える未来志向の開発者
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+---
 
-## 💬 Feedback
+## 📚 Possible Applications / 想定用途
 
-ご意見・ご感想は GitHub Discussions または Issues にてお気軽にお寄せください。  
-→ [Discussions](https://github.com/tadi-karuma/ionosphere-energy-concept/discussions)
+- As a conceptual foundation for speculative or exploratory research  
+  架空研究や構想議論の起点として
+- As a basis for numerical simulations or experimental designs  
+  数値シミュレーションや実験設計の素材として
+- As a public discussion seed for academic, technical, or policy feedback  
+  公開レビューや意見交換のたたき台として
 
-Keywords: ionosphere, electromagnetic energy, plasma control, space infrastructure, speculative technology, open science
+---
+
+## 📝 License
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).

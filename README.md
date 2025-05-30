@@ -5,8 +5,8 @@ This repository contains a conceptual proposal to use Earth's ionosphere as a co
 
 ## 🔹 Included Files / 含まれるファイル
 
-- `proposal_en.pdf` : English version of the concept proposal
-- `proposal_ja.pdf` : 日本語訳（翻訳版）
+- `proposal_en.txt` : English version of the concept proposal
+- `proposal_ja.txt` : 日本語訳（翻訳版）
 - `LICENSE` : Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## 🔹 Purpose / 目的

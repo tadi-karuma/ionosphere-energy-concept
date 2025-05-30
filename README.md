@@ -5,8 +5,8 @@ This repository contains a conceptual proposal to use Earth's ionosphere as a co
 
 ## 🔹 Included Files / 含まれるファイル
 
-- `proposal_en.txt` : English version of the concept proposal
-- `proposal_ja.txt` : 日本語訳（翻訳版）
+- [English Proposal](./proposal_en.txt)
+- [日本語提案（proposal_ja.txt）](./proposal_ja.txt)
 - `LICENSE` : Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## 🔹 Purpose / 目的
@@ -19,5 +19,7 @@ This repository contains a conceptual proposal to use Earth's ionosphere as a co
 ## 🔹 License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+If you have thoughts or suggestions, feel free to join the [Discussions](https://github.com/tadi-karuma/ionosphere-energy-concept/discussions).
 
 Keywords: ionosphere, electromagnetic energy, plasma control, space infrastructure, speculative technology, open science

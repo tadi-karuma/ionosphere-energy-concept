@@ -1,3 +1,4 @@
+# Ionosphere Energy Concept (提案構想書) - https://github.com/tadi-karuma/ionosphere-energy-concept
 
 電離層を活用した地球規模電磁エネルギー基盤の構想提案
 
